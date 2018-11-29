@@ -1,0 +1,6 @@
+D:\Shit\Suсks\Безпека програм та даних\Лаба №8\laba8\laba8\bin\Debug\laba8.exe.config
+D:\Shit\Suсks\Безпека програм та даних\Лаба №8\laba8\laba8\bin\Debug\laba8.exe
+D:\Shit\Suсks\Безпека програм та даних\Лаба №8\laba8\laba8\bin\Debug\laba8.pdb
+D:\Shit\Suсks\Безпека програм та даних\Лаба №8\laba8\laba8\obj\Debug\laba8.csprojResolveAssemblyReference.cache
+D:\Shit\Suсks\Безпека програм та даних\Лаба №8\laba8\laba8\obj\Debug\laba8.exe
+D:\Shit\Suсks\Безпека програм та даних\Лаба №8\laba8\laba8\obj\Debug\laba8.pdb
